@@ -47,5 +47,6 @@ Temporary Items
 .apdisk
 
 # Visual Studio
+obj/
 bin/
 .vs/
