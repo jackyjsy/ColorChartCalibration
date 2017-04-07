@@ -1,8 +1,0 @@
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\App.g.i.cs
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\App.g.cs
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\MainPage.g.i.cs
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\MainPage.g.cs
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\App.xaml
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\MainPage.xaml
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\App.xbf
-C:\Users\jiang\Desktop\Windows-universal-samples-master\Samples\CameraManualControls\cs\obj\ARM\Debug\MainPage.xbf
